@@ -1,0 +1,8 @@
+name: BallOfSteal
+author: SmakYop
+version: 1.0-SNAPSHOT
+main: net.pvpwarcraft.ballofsteal.BOS
+depend: [WorldEdit]
+commands:
+  game:
+    permission: game.use

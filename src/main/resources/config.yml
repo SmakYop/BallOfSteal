@@ -1,0 +1,81 @@
+map-name: Default
+max-build-y:
+number-of-schematics: 2
+number-of-balls-spawn: 2
+spawn-location:
+  world:
+  x:
+  y:
+  z:
+spawn-cuboid:
+  first-corner:
+    world:
+    x:
+    y:
+    z:
+  second-corner:
+    world:
+    x:
+    y:
+    z:
+blue:
+  spawn:
+    world:
+    x:
+    y:
+    z:
+  chest:
+    world:
+    x:
+    y:
+    z:
+red:
+  spawn:
+    world:
+    x:
+    y:
+    z:
+  chest:
+    world:
+    x:
+    y:
+    z:
+green:
+  spawn:
+    world:
+    x:
+    y:
+    z:
+  chest:
+    world:
+    x:
+    y:
+    z:
+orange:
+  spawn:
+    world:
+    x:
+    y:
+    z:
+  chest:
+    world:
+    x:
+    y:
+    z:
+
+# Exemple locations
+locations:
+  - ==: org.bukkit.Location
+    world: world
+    x: 69
+    y: 49
+    z: 27
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -35
+    y: 49
+    z: 4
+    pitch: 0.0
+    yaw: 0.0
